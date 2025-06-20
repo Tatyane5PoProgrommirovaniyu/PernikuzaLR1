@@ -1,0 +1,5 @@
+Microsoft Windows [Version 10.0.26100.3775]
+(с) Корпорация Майкрософт (Мicrosoft Corporation). Все права защищены.
+C:\Users\catna>cd "C:\Users\catna\PernikuzaLR"
+C:\Users\catna\Sotnikova>git init
+Initialized empty Git repository in C:/Users/catna/Sotnikova/.git/
